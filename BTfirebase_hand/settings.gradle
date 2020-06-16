@@ -1,0 +1,2 @@
+rootProject.name='BTfirebase_hand'
+include ':app'
